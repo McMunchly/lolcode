@@ -1,6 +1,7 @@
-WTF prints a table of squares
-
+BTW prints a table of squares
+    
 HAI 1.2
+    
     I HAS A number
     VISIBLE SMOOSH "GIMMEH A NUMBR: " MKAY!
     GIMMEH number
