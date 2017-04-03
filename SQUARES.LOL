@@ -3,7 +3,7 @@ BTW prints a table of squares
 HAI 1.2
     
     I HAS A number
-    VISIBLE SMOOSH "GIMMEH A NUMBR: " MKAY!
+    VISIBLE SMOOSH "GIMMEH A NUMBR: " MKAY
     GIMMEH number
     number IS NOW A NUMBR
 
