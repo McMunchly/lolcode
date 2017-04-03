@@ -1,11 +1,15 @@
+BTW prints out a fizz-buzz list up to a user-given number
+
 HAI 1.2
     I HAS A number
     VISIBLE "GIMMEH YR NUMBR: "
     GIMMEH number
+    
     number IS NOW A NUMBR
+    
     VISIBLE "---"
     
-    IM IN YR loop UPPIN YR count TIL BOTH SAEM count AN number
+    IM IN YR loop UPPIN YR count TIL BOTH SAEM count AN SUM OF number AN 1
     
         DIFFRINT count AN 0
         O RLY?
